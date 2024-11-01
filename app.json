@@ -53,7 +53,7 @@
       },
       "SUDO_USERS": {
         "description": "Sudo kimi əlavə etmək istədiyiniz istifadəçi(lər)in istifadəçi id(ləri). Çoxsaylı dəyərlər boşluqla ayrılmalıdır.",
-        "value": "6240654178",
+        "value": "6276057244",
         "required": true
       },
       "SUPPORT_CHAT": {
